@@ -613,7 +613,7 @@
            
             /* background: linear-gradient(rgba(56, 102, 65, 0.85), rgba(106, 153, 78, 0.85)), url('https://images.unsplash.com/photo-1545389336-cf090694435e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80') no-repeat center center/cover; */
              /* background:  url('https://yogashya.com/wp-content/uploads/2025/08/10-Beginner-Yoga-Poses-1024x768.jpg') no-repeat center center/cover; */
-            background:  url('Beginner-Yoga-Poses-600-450.jpg') no-repeat center center/cover;
+            background:  url('/images/Beginner-Yoga-Poses-600-450.jpg') no-repeat center center/cover;
            
            
         /* width: 100%;
